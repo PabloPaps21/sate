@@ -165,7 +165,7 @@ a {
 .cita-index{
   text-align: center;
   margin-bottom: 20px;
- font-family: 'Strait', sans-serif;
+  font-family: 'Strait', sans-serif;
   font-size: 16px;
 }
 .menu-wrapper{
@@ -334,10 +334,6 @@ a {
   font-family: 'Strait', sans-serif;
   font-size: 20px;
 }
-.pass-usr{
-  font-family: 'Strait', sans-serif;
-  font-size: 20px;
-}
 .acceder-titulo{
   font-size: 30px;
   margin-bottom: 5%;
@@ -367,6 +363,8 @@ a {
 }
 .pass-usr{
   margin-top: 20px;
+  font-family: 'Strait', sans-serif;
+  font-size: 20px;
 }
 .confirmar-wrapper{
   display:flex;
@@ -517,7 +515,6 @@ a {
   font-family: 'Strait', sans-serif;
   font-size: 18px;
   line-height: 25px;
-
 }
 .texto{
   font-size: 20px;
@@ -875,7 +872,7 @@ a {
 .iconos{
   display: flex;
   width:900px;
-  margin-top: 50px;
+  margin-top: 50px; 
   justify-content: space-between; 
 }
 .img-icono{
